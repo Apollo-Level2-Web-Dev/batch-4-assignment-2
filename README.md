@@ -31,6 +31,10 @@
 
 - Submit a well-documented codebase with clear comments.
 - Make sure to add a README file that explains how to set up and use the application. In the README, include details like the project name, live URL, features, technology used, and other important information. Try to make it look professional by doing some research and making it appealing.
+- It is recommended to create the explanation video in English, but making it in Bengali is fine too. The video duration should be between 5-10 minutes.
+- For recording, you can use a software called OBS. Record the video using it, upload it to Google Drive, and share the link (make sure to set the access to "anyone with the link"). Alternatively, you can use a platform called Loom. Record the video there, and they will provide a link that you can share.
+
+
 
 ## What You Need to Provide:
 
@@ -40,6 +44,7 @@
 4. **Professional README file** with features of your application and instructions on setting up the project locally.
 
 ## Assignment Number based on the Last Digit of PH Student ID:
+On the website, click on your profile image, and a dropdown will open. There, you will find your Student ID displayed below your name.
 
 | The last Digit of PH Student ID | Assignment Number (Design No)   |
 | ------------------------------- | ------------------------------- |
