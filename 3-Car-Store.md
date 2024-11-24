@@ -212,46 +212,6 @@ Develop an Express application with TypeScript, integrating MongoDB with Mongoos
 }
 ```
 
-```jsx
-{
-  "message": "Car updated successfully",
-  "status": true,
-  "data": {
-    "_id": "648a45e5f0123c45678d9012",
-    "brand": "Toyota",
-    "model": "Camry",
-    "year": 2024,
-    "price": 27000,  // Price updated
-    "category": "Sedan",
-    "description": "A reliable family sedan with modern features.",
-    "quantity": 30,  // Quantity updated
-    "inStock": true,
-    "createdAt": "2024-11-19T10:23:45.123Z",
-    "updatedAt": "2024-11-19T11:00:00.000Z"  // Updated timestamp
-  }
-}
-```
-
-```jsx
-{
-  "message": "Car updated successfully",
-  "status": true,
-  "data": {
-    "_id": "648a45e5f0123c45678d9012",
-    "brand": "Toyota",
-    "model": "Camry",
-    "year": 2024,
-    "price": 27000,  // Price updated
-    "category": "Sedan",
-    "description": "A reliable family sedan with modern features.",
-    "quantity": 30,  // Quantity updated
-    "inStock": true,
-    "createdAt": "2024-11-19T10:23:45.123Z",
-    "updatedAt": "2024-11-19T11:00:00.000Z"  // Updated timestamp
-  }
-}
-```
-
 ---
 
 ### **5. Delete a Car**
@@ -359,6 +319,6 @@ Develop an Express application with TypeScript, integrating MongoDB with Mongoos
 
 ### **Deadline:**
 
-- **60 Marks:** November 24, 2024
-- **50 Marks:** November 25, 2024
+- **60 Marks:** November 24, 2024 - 11:59 PM
+- **50 Marks:** November 25, 2024 - 11:59 PM 
 - **30 Marks:** After November 25, 2024
