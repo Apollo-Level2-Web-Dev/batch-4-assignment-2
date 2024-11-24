@@ -312,6 +312,6 @@ Develop an Express application with TypeScript, integrating MongoDB with Mongoos
 
 ### **Deadline:**
 
-- **60 Marks:** November 24, 2024
-- **50 Marks:** November 25, 2024
+- **60 Marks:** November 24, 2024 - 11:59 PM
+- **50 Marks:** November 25, 2024 - 11:59 PM
 - **30 Marks:** After November 25, 2024
