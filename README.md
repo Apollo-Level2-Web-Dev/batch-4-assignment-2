@@ -56,8 +56,8 @@ On the website, click on your profile image, and a dropdown will open. There, yo
 
 ### ⏰ **Deadline:**
 
-- **60 Marks:** November 24, 2024
-- **50 Marks:** November 25, 2024
+- **60 Marks:** November 24, 2024, at 11:59 PM
+- **50 Marks:** November 25, 2024, at 11:59 PM
 - **30 Marks:** After November 25, 2024
 
 ## 🚫 **Important Note:**
